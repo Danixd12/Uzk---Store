@@ -53,9 +53,6 @@ game.Players.PlayerRemoving:connect(function(Player)
 				["description"] = "\n Money: "..money.Value,
 				["color"] = tonumber(0xc3962a),
 				["type"] = "rich",
-				["thumbnail"] = {
-					["url"] = "https://www.roblox.com/library/7812154403/ukrania"
-				}
 	
 			}}
 		}
