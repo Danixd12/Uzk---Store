@@ -1,6 +1,6 @@
 local config = {}
 
-config.currency = "Hryvnia"
+config.currency = "Euro"
 
 config.money_giver = {
 	waitTime = 5, -- How much time we want to wait until more money is added (seconds)
