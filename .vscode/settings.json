@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "game",
+        "DataStoreService",
+        "Instance",
+        "wait",
+        "UDim2"
+    ],
+    "robloxLsp.diagnostics.disable": [
+        "deprecated"
+    ]
+}
