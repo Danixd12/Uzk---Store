@@ -6,7 +6,14 @@ shop.list = {
 		"item1",
 		"item2",
 		"item3"
-	}
+	},
+    
+    ["Shop2"] = {
+		"item1",
+		"item2",
+		"item3"
+	},
+
 
 }
 
